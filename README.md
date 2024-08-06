@@ -25,6 +25,6 @@ System requirements:  Python 3.x.x / Django 4.x.x
 https://py-dev.top/en/application-software/binance-p2p-hub
 
 ## Contacts
-► Contacts:
+► Contacts:<br>
 Telegram: @morgan_sql<br>
 Telegram channel:  https://t.me/pydevtop
