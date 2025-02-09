@@ -22,9 +22,9 @@ Installing the program on Linux or Windows web server
 System requirements:  Python 3.x.x / Django 4.x.x
 
 ## Buy a subscription to Binance P2P Hub
-https://py-dev.top/en/application-software/binance-p2p-hub
+https://py-dev.top/application-software/binance-p2p-hub
 
 ## Contacts
 ► Contacts:<br>
 Telegram: @morgan_sql<br>
-Telegram channel:  https://t.me/pydevtop
+
